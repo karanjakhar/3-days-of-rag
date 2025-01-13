@@ -1,0 +1,2 @@
+- [x] Implement a way to store vector and text in key and value format. 
+- [x] Implement a way to match a vector with all stored vectors and return top k texts.
